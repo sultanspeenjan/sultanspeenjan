@@ -9,13 +9,17 @@
 
 <h3>📫 How to reach me: sultanspeenjan@gmail.com</h3>
 
-<h3>💻 More about my Technical Skills</h3>
+<h3>💻 About My Technical Skills</h3>
 
 - <p align="left">Proficient in JavaScript, Basic in C++, Java</p>
 - <p align="left">Python, NodeJS (ReactJS & ExpressJS), PHP, C++</p>
 - <p align="left">Front-end development with ReactJS, HTML5, Sass (but i hate it)</p>
 - <p align="left">Web3.0 Developer - Project PropBlock (checkout my projects)</p>
 
+<h3>🙂 - More About Me</h3>
+<p>I am a computer science student with a passion for web3 development and experience working with ReactJS. I have a strong understanding of blockchain technology and have experience working with Ethereum and smart contracts. I have experience developing decentralized applications (dApps) using ReactJS and web3.js. I am proficient in JavaScript, TypeScript, and Solidity, as well as familiar with various blockchain development frameworks and libraries.
+</p>
+<p>In addition, I am well-versed in front-end development using ReactJS and have experience building user-friendly and responsive web interfaces. I am an active member of the blockchain and web3 development community and am always eager to learn and stay up to date with the latest technologies and trends in the field. I am looking for opportunities to apply my skills and continue to grow as a web3 developer.</p>
 <h3 align="left">My Twitter Handle:</h3>
 <p align="left">
 <a href="https://twitter.com/sultansjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sultansjan" height="30" width="40" /></a>
