@@ -17,7 +17,7 @@
 - <p align="left">Web3.0 Developer - Project PropBlock (checkout my projects)</p>
 
 <h3>🙂 - More About Me</h3>
-<p>I am a computer science student with a passion for web3 development and experience working with ReactJS. I have a strong understanding of blockchain technology and have experience working with Ethereum and smart contracts. I have experience developing decentralized applications (dApps) using ReactJS and web3.js. I am proficient in JavaScript, TypeScript, and Solidity, as well as familiar with various blockchain development frameworks and libraries.
+<p>I am a computer science graduate with a passion for web3 development and experience working with ReactJS. I have a strong understanding of blockchain technology and have experience working with Ethereum and smart contracts. I have experience developing decentralized applications (dApps) using ReactJS and web3.js. I am proficient in JavaScript, Solidity, etc.
 </p>
 <p>In addition, I am well-versed in front-end development using ReactJS and have experience building user-friendly and responsive web interfaces. I am an active member of the blockchain and web3 development community and am always eager to learn and stay up to date with the latest technologies and trends in the field. I am looking for opportunities to apply my skills and continue to grow as a web3 developer.</p>
 <h3 align="left">My Twitter Handle:</h3>
