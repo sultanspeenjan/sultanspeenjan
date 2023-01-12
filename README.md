@@ -7,7 +7,7 @@
 
 <h3>👨‍💻 All of my projects are available at @sultanspeenjan (https://github.com/sultanspeenjan/)</h3>
 
-<h3>📫 How to reach me **sultanspeenjan@gmail.com**</h3>
+<h3>📫 How to reach me: sultanspeenjan@gmail.com</h3>
 
 <h3>💻 More about my Technical Skills</h3>
 
