@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sultan Speen Jan</h1>
 <h3 align="center">A Web3.0 Developer, also interested in AI, Branding, UI/ UX Design as well.</h3>
 
-🔭 I’m currently working on [PropBlock](https://github.com/sultanspeenjan/PropBlock)
+🔭 <h2>I’m currently working on [PropBlock](https://github.com/sultanspeenjan/PropBlock)</h2>
 
 🌱 Learning - **AI, Airtable, ...**
 
