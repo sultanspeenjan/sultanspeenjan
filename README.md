@@ -1,20 +1,20 @@
 <h1 align="center">Hi 👋, I'm Sultan Speen Jan</h1>
 <h3 align="center">A Web3.0 Developer, also interested in AI, Branding, UI/ UX Design as well.</h3>
 
-- 🔭 I’m currently working on [PropBlock](https://github.com/sultanspeenjan/PropBlock)
+🔭 I’m currently working on [PropBlock](https://github.com/sultanspeenjan/PropBlock)
 
-- 🌱 Learning - **AI, Airtable, ...**
+🌱 Learning - **AI, Airtable, ...**
 
-- 👨‍💻 All of my projects are available at [https://github.com/sultanspeenjan/](https://github.com/sultanspeenjan/)
+👨‍💻 All of my projects are available at [https://github.com/sultanspeenjan/](https://github.com/sultanspeenjan/)
 
-- 📫 How to reach me **sultanspeenjan@gmail.com**
+📫 How to reach me **sultanspeenjan@gmail.com**
 
-- 💻 More about my Technical Skills
+💻 More about my Technical Skills
 
-<p align="left">Proficient in JavaScript, Basic in C++, Java</p>
-<p align="left">Python, NodeJS (ReactJS & ExpressJS), PHP, C++</p>
-<p align="left">Front-end development with ReactJS, HTML5, Sass (but i hate it)</p>
-<p align="left">Web3.0 Developer - Project PropBlock (checkout my projects)</p>
+- <p align="left">Proficient in JavaScript, Basic in C++, Java</p>
+- <p align="left">Python, NodeJS (ReactJS & ExpressJS), PHP, C++</p>
+- <p align="left">Front-end development with ReactJS, HTML5, Sass (but i hate it)</p>
+- <p align="left">Web3.0 Developer - Project PropBlock (checkout my projects)</p>
 
 <h3 align="left">My Twitter Handle:</h3>
 <p align="left">
