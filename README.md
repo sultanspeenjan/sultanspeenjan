@@ -3,7 +3,7 @@
 
 <h3>🔭 - I’m currently working on PropBlock (https://github.com/sultanspeenjan/PropBlock)</h3>
 
-<h3>🌱 Learning - **AI, Airtable, ...**</h3>
+<h3>🌱 Learning - <b>AI, Airtable, ...</b></h3>
 
 <h3>👨‍💻 All of my projects are available at @sultanspeenjan (https://github.com/sultanspeenjan/)</h3>
 
