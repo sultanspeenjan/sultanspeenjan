@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Sultan Speen Jan</h1>
 <h3 align="center">A Web3.0 Developer, also interested in AI, Branding, UI/ UX Design as well.</h3>
 
- <h3>🔭 - I’m currently working on PropBlock (https://github.com/sultanspeenjan/PropBlock)</h3>
+<h3>🔭 - I’m currently working on PropBlock (https://github.com/sultanspeenjan/PropBlock)</h3>
 
-🌱 Learning - **AI, Airtable, ...**
+<h3>🌱 Learning - **AI, Airtable, ...**</h3>
 
-👨‍💻 All of my projects are available at [https://github.com/sultanspeenjan/](https://github.com/sultanspeenjan/)
+<h3>👨‍💻 All of my projects are available at @sultanspeenjan (https://github.com/sultanspeenjan/)</h3>
 
-📫 How to reach me **sultanspeenjan@gmail.com**
+<h3>📫 How to reach me **sultanspeenjan@gmail.com**</h3>
 
-💻 More about my Technical Skills
+<h3>💻 More about my Technical Skills</h3>
 
 - <p align="left">Proficient in JavaScript, Basic in C++, Java</p>
 - <p align="left">Python, NodeJS (ReactJS & ExpressJS), PHP, C++</p>
