@@ -7,11 +7,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/sultanspeenjan/](https://github.com/sultanspeenjan/)
 
-- 💬 I am proficient in **JavaScript, React JS, Web3.0, CSS Frameworks, etc.**
-
 - 📫 How to reach me **sultanspeenjan@gmail.com**
 
-**My Twitter Handle: **
+- 💻 More about my Technical Skills
+
+<p align="left">Proficient in JavaScript, Basic in C++, Java</p>
+<p align="left">Python, NodeJS (ReactJS & ExpressJS), PHP, C++</p>
+<p align="left">Front-end development with ReactJS, HTML5, Sass (but i hate it)</p>
+<p align="left">Web3.0 Developer - Project PropBlock (checkout my projects)</p>
+
+<h3 align="left">My Twitter Handle:</h3>
 <p align="left">
 <a href="https://twitter.com/sultansjan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sultansjan" height="30" width="40" /></a>
 </p>
