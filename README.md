@@ -12,8 +12,8 @@
 <h3>💻 About My Technical Skills</h3>
 
 - <p align="left">Proficient in JavaScript, Basic in C++, Java</p>
-- <p align="left">Python, NodeJS (ReactJS & ExpressJS), PHP, C++</p>
-- <p align="left">Front-end development with ReactJS, HTML5, Sass (but i hate it)</p>
+- <p align="left">NodeJS (ReactJS & ExpressJS), C++</p>
+- <p align="left">Front-end development with ReactJS, HTML5, Sass</p>
 - <p align="left">Web3.0 Developer - Project PropBlock (checkout my projects)</p>
 
 <h3>🙂 - More About Me</h3>
